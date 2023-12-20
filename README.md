@@ -1,7 +1,7 @@
 # TaskMate React
 
-![Main Page](https://github.com/kareemosama/TaskMate_React/tree/main/src/assets/GitImages/MainPage.png)
-![Task1](https://github.com/kareemosama/TaskMate_React/tree/main/src/assets/GitImages/Task1.png)
+![Main Page](https://github.com/kareemosama/TaskMate_React/blob/main/src/assets/GitImages/MainPage.png)
+![Task1](https://github.com/kareemosama/TaskMate_React/blob/main/src/assets/GitImages/Task1.png)
 
 ## Table of Contents
 
